@@ -8,6 +8,5 @@
     * Adicionar [x]
     * Commitar [x]
     * Enviar arquivos [x]
-4. Criar uma nova Branch e Merge [X]
-5. Criar um Pull Request [ ]
-6. Criar nosso primeiro Fork [ ]
+4. Criar uma nova Branch e Merge [x]
+5. Criar um Fork e Pull Request [x]
