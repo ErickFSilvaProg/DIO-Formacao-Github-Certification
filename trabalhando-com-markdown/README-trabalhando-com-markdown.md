@@ -47,4 +47,11 @@
 
 ---
 ---
+<!-- Exibindo código -->
+`console.log("Markdown")`
+
+```console.log("JavaScript"); print "Python"; system.out.println("Java")```
+
+---
+---
 <!--  -->
