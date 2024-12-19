@@ -8,6 +8,7 @@
 ##### Título 5
 ###### Título 6
 
+
 ---
 ---
 <!-- Estilo das letras -->
@@ -16,6 +17,7 @@
 **Negrito** ou __negrito__
 
 ***Negrito com itálico*** ou 
+
 
 ---
 ---
@@ -26,6 +28,7 @@
     - Subitem de lista 2.2
 - Item de lista 3
 
+
 ---
 ---
 <!-- Lista ordenada -->
@@ -35,15 +38,18 @@
     2. Item de sublista 2.2
 3. Item de lista 3
 
+
 ---
 ---
 <!-- Link -->
 [Git/Github](https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/648/2024/07/12/62a1a59f9d4c77ea4a6012b1_git-and-github-2030714806.jpeg)
 
+
 ---
 ---
 <!-- Imagem -->
 ![Git/Github](https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/648/2024/07/12/62a1a59f9d4c77ea4a6012b1_git-and-github-2030714806.jpeg)
+
 
 ---
 ---
@@ -52,6 +58,20 @@
 
 ```console.log("JavaScript"); print "Python"; system.out.println("Java")```
 
+
 ---
 ---
-<!--  -->
+<!-- Citação -->
+> Texto da citação
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
+| Texto 1     | Texto 2     |
+| Texto 1     | Texto 2     |
+
+
+---
+---
+<!-- Checkout -->
+- [x] Checkout 1
+- [ ] Checkout 2
