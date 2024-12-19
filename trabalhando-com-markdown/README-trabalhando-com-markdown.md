@@ -6,7 +6,8 @@
 ##### Título 5
 ###### Título 6
 
-
+---
+---
 <!-- Estilo das letras -->
 *Itálico* ou _itálico_
 
@@ -14,7 +15,8 @@
 
 ***Negrito com itálico*** ou 
 
-
+---
+---
 <!-- Lista não ordenada -->
 - Item de lista 1
 - Item de lista 2
@@ -22,7 +24,8 @@
     - Subitem de lista 2.2
 - Item de lista 3
 
-
+---
+---
 <!-- Lista ordenada -->
 1. Item de lista 1
 2. Item de lista 2
